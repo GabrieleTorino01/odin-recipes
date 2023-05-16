@@ -1,0 +1,19 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    font-weight: bolder;
+    color: blueviolet;
+    background-color: aquamarine;
+
+}
+li {
+    background-color: bisque;
+
+}
+h3 {
+    color: red;
+}
+img {
+    width: 400px;
+    height: auto;
+}
